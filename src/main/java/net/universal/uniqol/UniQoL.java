@@ -2,7 +2,6 @@ package net.universal.uniqol;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.minecraft.item.Item;
 import net.universal.uniqol.item.UniQoLItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
